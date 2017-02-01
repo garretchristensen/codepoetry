@@ -1,3 +1,5 @@
+# First Stanza
+
 turning and turning in the widening gyre
 
 the falcon cannot hear the falconer;
@@ -12,6 +14,8 @@ The ceremony of innocence is drowned;
 
 Surely some revelation is at hand;
 
+
+# Second Stanza
 
 Surely the Second Coming is at hand.
     
